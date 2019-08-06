@@ -1,0 +1,765 @@
+2019-07-31 13:21:54 INFO  EmployeeRestAPI:24 - ********** Started TC001_Get_All_Employees **********
+2019-07-31 13:21:58 INFO  EmployeeRestAPI:84 - ********** Checking Content Encoding **********
+2019-07-31 13:21:58 INFO  EmployeeRestAPI:86 - Content Encoding is ==> gzip
+2019-07-31 13:21:58 INFO  EmployeeRestAPI:92 - ********** Checking Content Length **********
+2019-07-31 13:21:58 INFO  EmployeeRestAPI:94 - Content Length is ==> null
+2019-07-31 13:21:58 INFO  EmployeeRestAPI:68 - ********** Checking Content Type **********
+2019-07-31 13:21:58 INFO  EmployeeRestAPI:70 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 13:21:58 INFO  EmployeeRestAPI:102 - ********** Checking Cookies **********
+2019-07-31 13:21:58 INFO  EmployeeRestAPI:104 - Cookies is ==> 8b7d19b2f5c63bebc8effdd19c89a79f
+2019-07-31 13:21:58 INFO  EmployeeRestAPI:34 - ********** Checking Response Body **********
+2019-07-31 13:21:58 INFO  EmployeeRestAPI:36 - Response Body ==> io.restassured.internal.RestAssuredResponseImpl@5ee2b6f9
+2019-07-31 13:21:58 INFO  EmployeeRestAPI:50 - ********** Checking Response Time **********
+2019-07-31 13:21:58 INFO  EmployeeRestAPI:52 - Response Time is ==> 2151
+2019-07-31 13:21:58 WARN  EmployeeRestAPI:54 - Response Time is greater then 2000
+2019-07-31 13:21:58 INFO  EmployeeRestAPI:76 - ********** Checking Server Type **********
+2019-07-31 13:21:58 INFO  EmployeeRestAPI:78 - Server Type is ==> Apache
+2019-07-31 13:21:58 INFO  EmployeeRestAPI:42 - ********** Checking Status Code **********
+2019-07-31 13:21:58 INFO  EmployeeRestAPI:44 - Status Code is ==> 200
+2019-07-31 13:21:58 INFO  EmployeeRestAPI:60 - ********** Checking Status Line **********
+2019-07-31 13:21:58 INFO  EmployeeRestAPI:62 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 13:21:58 INFO  EmployeeRestAPI:110 - ********** Finished TC001_Get_All_Employees **********
+2019-07-31 13:24:07 INFO  EmployeeRestAPI:24 - ********** Started TC001_Get_All_Employees **********
+2019-07-31 13:24:08 INFO  EmployeeRestAPI:84 - ********** Checking Content Encoding **********
+2019-07-31 13:24:08 INFO  EmployeeRestAPI:86 - Content Encoding is ==> gzip
+2019-07-31 13:24:08 INFO  EmployeeRestAPI:92 - ********** Checking Content Length **********
+2019-07-31 13:24:08 INFO  EmployeeRestAPI:94 - Content Length is ==> null
+2019-07-31 13:24:08 INFO  EmployeeRestAPI:68 - ********** Checking Content Type **********
+2019-07-31 13:24:08 INFO  EmployeeRestAPI:70 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 13:24:08 INFO  EmployeeRestAPI:102 - ********** Checking Cookies **********
+2019-07-31 13:24:08 INFO  EmployeeRestAPI:104 - Cookies is ==> d8f7cb6f95f39b9d1dc863d6a927cfd7
+2019-07-31 13:24:08 INFO  EmployeeRestAPI:34 - ********** Checking Response Body **********
+2019-07-31 13:24:08 INFO  EmployeeRestAPI:36 - Response Body ==> io.restassured.internal.RestAssuredResponseImpl@5ee2b6f9
+2019-07-31 13:24:08 INFO  EmployeeRestAPI:50 - ********** Checking Response Time **********
+2019-07-31 13:24:08 INFO  EmployeeRestAPI:52 - Response Time is ==> 1118
+2019-07-31 13:24:08 INFO  EmployeeRestAPI:76 - ********** Checking Server Type **********
+2019-07-31 13:24:08 INFO  EmployeeRestAPI:78 - Server Type is ==> Apache
+2019-07-31 13:24:08 INFO  EmployeeRestAPI:42 - ********** Checking Status Code **********
+2019-07-31 13:24:08 INFO  EmployeeRestAPI:44 - Status Code is ==> 200
+2019-07-31 13:24:08 INFO  EmployeeRestAPI:60 - ********** Checking Status Line **********
+2019-07-31 13:24:08 INFO  EmployeeRestAPI:62 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 13:24:08 INFO  EmployeeRestAPI:110 - ********** Finished TC001_Get_All_Employees **********
+2019-07-31 13:28:09 INFO  EmployeeRestAPI:24 - ********** Started TC001_Get_All_Employees **********
+2019-07-31 13:28:11 INFO  EmployeeRestAPI:84 - ********** Checking Content Encoding **********
+2019-07-31 13:28:11 INFO  EmployeeRestAPI:86 - Content Encoding is ==> gzip
+2019-07-31 13:28:11 INFO  EmployeeRestAPI:92 - ********** Checking Content Length **********
+2019-07-31 13:28:11 INFO  EmployeeRestAPI:94 - Content Length is ==> null
+2019-07-31 13:28:11 WARN  EmployeeRestAPI:100 - Content Length is null
+2019-07-31 13:28:11 INFO  EmployeeRestAPI:68 - ********** Checking Content Type **********
+2019-07-31 13:28:11 INFO  EmployeeRestAPI:70 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 13:28:11 INFO  EmployeeRestAPI:107 - ********** Checking Cookies **********
+2019-07-31 13:28:11 INFO  EmployeeRestAPI:109 - Cookies is ==> bf1e4a8fa053da95e38bdfb3c354b47a
+2019-07-31 13:28:11 INFO  EmployeeRestAPI:34 - ********** Checking Response Body **********
+2019-07-31 13:28:11 INFO  EmployeeRestAPI:36 - Response Body ==> io.restassured.internal.RestAssuredResponseImpl@522a32b1
+2019-07-31 13:28:11 INFO  EmployeeRestAPI:50 - ********** Checking Response Time **********
+2019-07-31 13:28:11 INFO  EmployeeRestAPI:52 - Response Time is ==> 1148
+2019-07-31 13:28:11 INFO  EmployeeRestAPI:76 - ********** Checking Server Type **********
+2019-07-31 13:28:11 INFO  EmployeeRestAPI:78 - Server Type is ==> Apache
+2019-07-31 13:28:11 INFO  EmployeeRestAPI:42 - ********** Checking Status Code **********
+2019-07-31 13:28:11 INFO  EmployeeRestAPI:44 - Status Code is ==> 200
+2019-07-31 13:28:11 INFO  EmployeeRestAPI:60 - ********** Checking Status Line **********
+2019-07-31 13:28:11 INFO  EmployeeRestAPI:62 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 13:28:11 INFO  EmployeeRestAPI:115 - ********** Finished TC001_Get_All_Employees **********
+2019-07-31 13:34:09 INFO  EmployeeRestAPI:24 - ********** Started TC001_Get_All_Employees **********
+2019-07-31 13:34:13 INFO  EmployeeRestAPI:84 - ********** Checking Content Encoding **********
+2019-07-31 13:34:13 INFO  EmployeeRestAPI:86 - Content Encoding is ==> gzip
+2019-07-31 13:34:13 INFO  EmployeeRestAPI:92 - ********** Checking Content Length **********
+2019-07-31 13:34:13 INFO  EmployeeRestAPI:94 - Content Length is ==> null
+2019-07-31 13:34:13 WARN  EmployeeRestAPI:100 - Content Length is null
+2019-07-31 13:34:13 INFO  EmployeeRestAPI:68 - ********** Checking Content Type **********
+2019-07-31 13:34:13 INFO  EmployeeRestAPI:70 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 13:34:13 INFO  EmployeeRestAPI:107 - ********** Checking Cookies **********
+2019-07-31 13:34:13 INFO  EmployeeRestAPI:109 - Cookies is ==> 69133bce991b838409bfc4542b8074cf
+2019-07-31 13:34:13 INFO  EmployeeRestAPI:34 - ********** Checking Response Body **********
+2019-07-31 13:34:13 INFO  EmployeeRestAPI:36 - Response Body ==> io.restassured.internal.RestAssuredResponseImpl@35390ee3
+2019-07-31 13:34:13 INFO  EmployeeRestAPI:50 - ********** Checking Response Time **********
+2019-07-31 13:34:13 INFO  EmployeeRestAPI:52 - Response Time is ==> 1141
+2019-07-31 13:34:13 INFO  EmployeeRestAPI:76 - ********** Checking Server Type **********
+2019-07-31 13:34:13 INFO  EmployeeRestAPI:78 - Server Type is ==> Apache
+2019-07-31 13:34:13 INFO  EmployeeRestAPI:42 - ********** Checking Status Code **********
+2019-07-31 13:34:13 INFO  EmployeeRestAPI:44 - Status Code is ==> 200
+2019-07-31 13:34:13 INFO  EmployeeRestAPI:60 - ********** Checking Status Line **********
+2019-07-31 13:34:13 INFO  EmployeeRestAPI:62 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 13:34:13 INFO  EmployeeRestAPI:115 - ********** Finished TC001_Get_All_Employees **********
+2019-07-31 13:38:46 INFO  EmployeeRestAPI:24 - ********** Started TC002_Get_Single_Employee_Data **********
+2019-07-31 13:38:50 INFO  EmployeeRestAPI:84 - ********** Checking Content Encoding **********
+2019-07-31 13:38:50 INFO  EmployeeRestAPI:86 - Content Encoding is ==> gzip
+2019-07-31 13:38:50 INFO  EmployeeRestAPI:92 - ********** Checking Content Length **********
+2019-07-31 13:38:50 INFO  EmployeeRestAPI:94 - Content Length is ==> 93
+2019-07-31 13:38:50 WARN  EmployeeRestAPI:97 - Content Length is less then 100
+2019-07-31 13:38:50 INFO  EmployeeRestAPI:68 - ********** Checking Content Type **********
+2019-07-31 13:38:50 INFO  EmployeeRestAPI:70 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 13:38:50 INFO  EmployeeRestAPI:107 - ********** Checking Cookies **********
+2019-07-31 13:38:50 INFO  EmployeeRestAPI:109 - Cookies is ==> 200e16e13142188243e0145430fc978e
+2019-07-31 13:38:50 INFO  EmployeeRestAPI:34 - ********** Checking Response Body **********
+2019-07-31 13:38:50 INFO  EmployeeRestAPI:36 - Response Body ==> io.restassured.internal.RestAssuredResponseImpl@5ee2b6f9
+2019-07-31 13:38:50 INFO  EmployeeRestAPI:50 - ********** Checking Response Time **********
+2019-07-31 13:38:50 INFO  EmployeeRestAPI:52 - Response Time is ==> 1119
+2019-07-31 13:38:50 INFO  EmployeeRestAPI:76 - ********** Checking Server Type **********
+2019-07-31 13:38:50 INFO  EmployeeRestAPI:78 - Server Type is ==> Apache
+2019-07-31 13:38:50 INFO  EmployeeRestAPI:42 - ********** Checking Status Code **********
+2019-07-31 13:38:50 INFO  EmployeeRestAPI:44 - Status Code is ==> 200
+2019-07-31 13:38:50 INFO  EmployeeRestAPI:60 - ********** Checking Status Line **********
+2019-07-31 13:38:50 INFO  EmployeeRestAPI:62 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 13:38:50 INFO  EmployeeRestAPI:115 - ********** Finished TC002_Get_Single_Employee_Data **********
+2019-07-31 13:39:51 INFO  EmployeeRestAPI:24 - ********** Started TC002_Get_Single_Employee_Data **********
+2019-07-31 13:39:56 INFO  EmployeeRestAPI:84 - ********** Checking Content Encoding **********
+2019-07-31 13:39:56 INFO  EmployeeRestAPI:86 - Content Encoding is ==> gzip
+2019-07-31 13:39:56 INFO  EmployeeRestAPI:92 - ********** Checking Content Length **********
+2019-07-31 13:39:56 INFO  EmployeeRestAPI:94 - Content Length is ==> 93
+2019-07-31 13:39:56 INFO  EmployeeRestAPI:68 - ********** Checking Content Type **********
+2019-07-31 13:39:56 INFO  EmployeeRestAPI:70 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 13:39:56 INFO  EmployeeRestAPI:107 - ********** Checking Cookies **********
+2019-07-31 13:39:56 INFO  EmployeeRestAPI:109 - Cookies is ==> 0bae258b052f2e5d7c53457138ea814d
+2019-07-31 13:39:56 INFO  EmployeeRestAPI:34 - ********** Checking Response Body **********
+2019-07-31 13:39:56 INFO  EmployeeRestAPI:36 - Response Body ==> io.restassured.internal.RestAssuredResponseImpl@56aaaecd
+2019-07-31 13:39:56 INFO  EmployeeRestAPI:50 - ********** Checking Response Time **********
+2019-07-31 13:39:56 INFO  EmployeeRestAPI:52 - Response Time is ==> 1119
+2019-07-31 13:39:56 INFO  EmployeeRestAPI:76 - ********** Checking Server Type **********
+2019-07-31 13:39:56 INFO  EmployeeRestAPI:78 - Server Type is ==> Apache
+2019-07-31 13:39:56 INFO  EmployeeRestAPI:42 - ********** Checking Status Code **********
+2019-07-31 13:39:56 INFO  EmployeeRestAPI:44 - Status Code is ==> 200
+2019-07-31 13:39:56 INFO  EmployeeRestAPI:60 - ********** Checking Status Line **********
+2019-07-31 13:39:56 INFO  EmployeeRestAPI:62 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 13:39:56 INFO  EmployeeRestAPI:115 - ********** Finished TC002_Get_Single_Employee_Data **********
+2019-07-31 15:24:39 INFO  EmployeeRestAPI:30 - ********** Started TC003_Post_New_Employee_Data **********
+2019-07-31 15:24:44 INFO  EmployeeRestAPI:96 - ********** Checking Content Encoding **********
+2019-07-31 15:24:44 INFO  EmployeeRestAPI:98 - Content Encoding is ==> null
+2019-07-31 15:24:44 INFO  EmployeeRestAPI:80 - ********** Checking Content Type **********
+2019-07-31 15:24:44 INFO  EmployeeRestAPI:82 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 15:24:44 INFO  EmployeeRestAPI:54 - ********** Checking Response Body **********
+2019-07-31 15:24:44 INFO  EmployeeRestAPI:56 - Response Body ==> {"name":"Johnwcm","salary":"79212","age":"13","id":"11519"}
+2019-07-31 15:24:44 INFO  EmployeeRestAPI:88 - ********** Checking Server Type **********
+2019-07-31 15:24:44 INFO  EmployeeRestAPI:90 - Server Type is ==> Apache
+2019-07-31 15:24:44 INFO  EmployeeRestAPI:64 - ********** Checking Status Code **********
+2019-07-31 15:24:44 INFO  EmployeeRestAPI:66 - Status Code is ==> 200
+2019-07-31 15:24:44 INFO  EmployeeRestAPI:72 - ********** Checking Status Line **********
+2019-07-31 15:24:44 INFO  EmployeeRestAPI:74 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 15:24:44 INFO  EmployeeRestAPI:104 - ********** Finished TC003_Post_New_Employee_Data **********
+2019-07-31 15:25:17 INFO  EmployeeRestAPI:30 - ********** Started TC003_Post_New_Employee_Data **********
+2019-07-31 15:25:22 INFO  EmployeeRestAPI:80 - ********** Checking Content Type **********
+2019-07-31 15:25:22 INFO  EmployeeRestAPI:82 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 15:25:22 INFO  EmployeeRestAPI:54 - ********** Checking Response Body **********
+2019-07-31 15:25:22 INFO  EmployeeRestAPI:56 - Response Body ==> {"name":"JohncKd","salary":"31546","age":"41","id":"11556"}
+2019-07-31 15:25:22 INFO  EmployeeRestAPI:88 - ********** Checking Server Type **********
+2019-07-31 15:25:22 INFO  EmployeeRestAPI:90 - Server Type is ==> Apache
+2019-07-31 15:25:22 INFO  EmployeeRestAPI:64 - ********** Checking Status Code **********
+2019-07-31 15:25:22 INFO  EmployeeRestAPI:66 - Status Code is ==> 200
+2019-07-31 15:25:22 INFO  EmployeeRestAPI:72 - ********** Checking Status Line **********
+2019-07-31 15:25:22 INFO  EmployeeRestAPI:74 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 15:25:22 INFO  EmployeeRestAPI:96 - ********** Finished TC003_Post_New_Employee_Data **********
+2019-07-31 15:29:55 INFO  EmployeeRestAPI:30 - ********** Started TC004_Put_Employee_Data **********
+2019-07-31 15:29:59 INFO  EmployeeRestAPI:80 - ********** Checking Content Type **********
+2019-07-31 15:29:59 INFO  EmployeeRestAPI:82 - Content Type is ==> text/html;charset=UTF-8
+2019-07-31 15:29:59 INFO  EmployeeRestAPI:54 - ********** Checking Response Body **********
+2019-07-31 15:29:59 INFO  EmployeeRestAPI:56 - Response Body ==> <html>
+    <head>
+        <title>Method not allowed</title>
+        <style>
+            body{
+                margin:0;
+                padding:30px;
+                font:12px/1.5 Helvetica,Arial,Verdana,sans-serif;
+            }
+            h1{
+                margin:0;
+                font-size:48px;
+                font-weight:normal;
+                line-height:48px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Method not allowed</h1>
+        <p>Method not allowed. Must be one of: <strong>PUT</strong></p>
+    </body>
+</html>
+2019-07-31 15:29:59 INFO  EmployeeRestAPI:88 - ********** Checking Server Type **********
+2019-07-31 15:29:59 INFO  EmployeeRestAPI:90 - Server Type is ==> Apache
+2019-07-31 15:29:59 INFO  EmployeeRestAPI:64 - ********** Checking Status Code **********
+2019-07-31 15:29:59 INFO  EmployeeRestAPI:66 - Status Code is ==> 405
+2019-07-31 15:29:59 INFO  EmployeeRestAPI:72 - ********** Checking Status Line **********
+2019-07-31 15:29:59 INFO  EmployeeRestAPI:74 - Status Line is ==> HTTP/1.1 405 Method Not Allowed
+2019-07-31 15:29:59 INFO  EmployeeRestAPI:96 - ********** Finished TC004_Put_Employee_Data **********
+2019-07-31 15:31:04 INFO  EmployeeRestAPI:30 - ********** Started TC004_Put_Employee_Data **********
+2019-07-31 15:31:09 INFO  EmployeeRestAPI:80 - ********** Checking Content Type **********
+2019-07-31 15:31:09 INFO  EmployeeRestAPI:82 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 15:31:09 INFO  EmployeeRestAPI:54 - ********** Checking Response Body **********
+2019-07-31 15:31:09 INFO  EmployeeRestAPI:56 - Response Body ==> {"name":"JohnWtj","salary":"91107","age":"48"}
+2019-07-31 15:31:09 INFO  EmployeeRestAPI:88 - ********** Checking Server Type **********
+2019-07-31 15:31:09 INFO  EmployeeRestAPI:90 - Server Type is ==> Apache
+2019-07-31 15:31:09 INFO  EmployeeRestAPI:64 - ********** Checking Status Code **********
+2019-07-31 15:31:09 INFO  EmployeeRestAPI:66 - Status Code is ==> 200
+2019-07-31 15:31:09 INFO  EmployeeRestAPI:72 - ********** Checking Status Line **********
+2019-07-31 15:31:09 INFO  EmployeeRestAPI:74 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 15:31:09 INFO  EmployeeRestAPI:96 - ********** Finished TC004_Put_Employee_Data **********
+2019-07-31 15:32:31 INFO  EmployeeRestAPI:30 - ********** Started TC004_Put_Employee_Data **********
+2019-07-31 15:32:35 INFO  EmployeeRestAPI:96 - ********** Checking Content Encoding **********
+2019-07-31 15:32:35 INFO  EmployeeRestAPI:98 - Content Encoding is ==> null
+2019-07-31 15:32:35 INFO  EmployeeRestAPI:80 - ********** Checking Content Type **********
+2019-07-31 15:32:35 INFO  EmployeeRestAPI:82 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 15:32:35 INFO  EmployeeRestAPI:54 - ********** Checking Response Body **********
+2019-07-31 15:32:35 INFO  EmployeeRestAPI:56 - Response Body ==> {"name":"JohnGwI","salary":"86319","age":"34"}
+2019-07-31 15:32:35 INFO  EmployeeRestAPI:88 - ********** Checking Server Type **********
+2019-07-31 15:32:35 INFO  EmployeeRestAPI:90 - Server Type is ==> Apache
+2019-07-31 15:32:35 INFO  EmployeeRestAPI:64 - ********** Checking Status Code **********
+2019-07-31 15:32:35 INFO  EmployeeRestAPI:66 - Status Code is ==> 200
+2019-07-31 15:32:35 INFO  EmployeeRestAPI:72 - ********** Checking Status Line **********
+2019-07-31 15:32:35 INFO  EmployeeRestAPI:74 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 15:32:35 INFO  EmployeeRestAPI:104 - ********** Finished TC004_Put_Employee_Data **********
+2019-07-31 15:34:07 INFO  EmployeeRestAPI:30 - ********** Started TC004_Put_Employee_Data **********
+2019-07-31 15:34:12 INFO  EmployeeRestAPI:96 - ********** Checking Content Encoding **********
+2019-07-31 15:34:12 INFO  EmployeeRestAPI:98 - Content Encoding is ==> null
+2019-07-31 15:34:12 INFO  EmployeeRestAPI:80 - ********** Checking Content Type **********
+2019-07-31 15:34:12 INFO  EmployeeRestAPI:82 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 15:34:12 INFO  EmployeeRestAPI:54 - ********** Checking Response Body **********
+2019-07-31 15:34:12 INFO  EmployeeRestAPI:56 - Response Body ==> {"name":"JohnpMB","salary":"72601","age":"47"}
+2019-07-31 15:34:12 INFO  EmployeeRestAPI:88 - ********** Checking Server Type **********
+2019-07-31 15:34:12 INFO  EmployeeRestAPI:90 - Server Type is ==> Apache
+2019-07-31 15:34:12 INFO  EmployeeRestAPI:64 - ********** Checking Status Code **********
+2019-07-31 15:34:12 INFO  EmployeeRestAPI:66 - Status Code is ==> 200
+2019-07-31 15:34:12 INFO  EmployeeRestAPI:72 - ********** Checking Status Line **********
+2019-07-31 15:34:12 INFO  EmployeeRestAPI:74 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 15:34:12 INFO  EmployeeRestAPI:104 - ********** Finished TC004_Put_Employee_Data **********
+2019-07-31 15:44:47 INFO  EmployeeRestAPI:25 - ********** Started TC005_Delete_Employee_Details **********
+2019-07-31 15:44:53 INFO  EmployeeRestAPI:76 - ********** Checking Content Encoding **********
+2019-07-31 15:44:53 INFO  EmployeeRestAPI:78 - Content Encoding is ==> null
+2019-07-31 15:44:53 INFO  EmployeeRestAPI:42 - ********** Checking Response Body **********
+2019-07-31 15:44:53 INFO  EmployeeRestAPI:44 - Response Body ==> io.restassured.internal.RestAssuredResponseImpl@29cfd92b
+2019-07-31 15:44:53 INFO  EmployeeRestAPI:58 - ********** Checking Response Time **********
+2019-07-31 15:44:53 INFO  EmployeeRestAPI:60 - Response Time is ==> 802
+2019-07-31 15:44:53 INFO  EmployeeRestAPI:50 - ********** Checking Status Code **********
+2019-07-31 15:44:53 INFO  EmployeeRestAPI:52 - Status Code is ==> 200
+2019-07-31 15:44:53 INFO  EmployeeRestAPI:68 - ********** Checking Status Line **********
+2019-07-31 15:44:53 INFO  EmployeeRestAPI:70 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 15:44:53 INFO  EmployeeRestAPI:84 - ********** Finished TC005_Delete_Employee_Details **********
+2019-07-31 15:45:58 INFO  EmployeeRestAPI:25 - ********** Started TC005_Delete_Employee_Details **********
+2019-07-31 15:46:04 INFO  EmployeeRestAPI:43 - ********** Checking Response Body **********
+2019-07-31 15:46:04 INFO  EmployeeRestAPI:45 - Response Body ==> {"success":{"text":"successfully! deleted Records"}}
+2019-07-31 15:46:04 INFO  EmployeeRestAPI:59 - ********** Checking Response Time **********
+2019-07-31 15:46:04 INFO  EmployeeRestAPI:61 - Response Time is ==> 660
+2019-07-31 15:46:04 INFO  EmployeeRestAPI:51 - ********** Checking Status Code **********
+2019-07-31 15:46:04 INFO  EmployeeRestAPI:53 - Status Code is ==> 200
+2019-07-31 15:46:04 INFO  EmployeeRestAPI:69 - ********** Checking Status Line **********
+2019-07-31 15:46:04 INFO  EmployeeRestAPI:71 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 15:46:04 INFO  EmployeeRestAPI:77 - ********** Finished TC005_Delete_Employee_Details **********
+2019-07-31 15:58:07 INFO  EmployeeRestAPI:24 - ********** Started TC001_Get_All_Employees **********
+2019-07-31 15:58:12 INFO  EmployeeRestAPI:84 - ********** Checking Content Encoding **********
+2019-07-31 15:58:12 INFO  EmployeeRestAPI:86 - Content Encoding is ==> gzip
+2019-07-31 15:58:12 INFO  EmployeeRestAPI:92 - ********** Checking Content Length **********
+2019-07-31 15:58:12 INFO  EmployeeRestAPI:94 - Content Length is ==> 14950
+2019-07-31 15:58:12 INFO  EmployeeRestAPI:68 - ********** Checking Content Type **********
+2019-07-31 15:58:12 INFO  EmployeeRestAPI:70 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 15:58:12 INFO  EmployeeRestAPI:107 - ********** Checking Cookies **********
+2019-07-31 15:58:12 INFO  EmployeeRestAPI:109 - Cookies is ==> 66dc98e6318c6b39a16e2c3eb9bb096d
+2019-07-31 15:58:12 INFO  EmployeeRestAPI:34 - ********** Checking Response Body **********
+2019-07-31 15:58:12 INFO  EmployeeRestAPI:36 - Response Body ==> io.restassured.internal.RestAssuredResponseImpl@6955cb39
+2019-07-31 15:58:12 INFO  EmployeeRestAPI:50 - ********** Checking Response Time **********
+2019-07-31 15:58:12 INFO  EmployeeRestAPI:52 - Response Time is ==> 1098
+2019-07-31 15:58:12 INFO  EmployeeRestAPI:76 - ********** Checking Server Type **********
+2019-07-31 15:58:12 INFO  EmployeeRestAPI:78 - Server Type is ==> Apache
+2019-07-31 15:58:12 INFO  EmployeeRestAPI:42 - ********** Checking Status Code **********
+2019-07-31 15:58:12 INFO  EmployeeRestAPI:44 - Status Code is ==> 200
+2019-07-31 15:58:12 INFO  EmployeeRestAPI:60 - ********** Checking Status Line **********
+2019-07-31 15:58:12 INFO  EmployeeRestAPI:62 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 15:58:12 INFO  EmployeeRestAPI:115 - ********** Finished TC001_Get_All_Employees **********
+2019-07-31 15:58:12 INFO  EmployeeRestAPI:24 - ********** Started TC002_Get_Single_Employee_Data **********
+2019-07-31 15:58:15 INFO  EmployeeRestAPI:84 - ********** Checking Content Encoding **********
+2019-07-31 15:58:15 INFO  EmployeeRestAPI:86 - Content Encoding is ==> gzip
+2019-07-31 15:58:15 INFO  EmployeeRestAPI:92 - ********** Checking Content Length **********
+2019-07-31 15:58:15 INFO  EmployeeRestAPI:94 - Content Length is ==> 92
+2019-07-31 15:58:15 INFO  EmployeeRestAPI:68 - ********** Checking Content Type **********
+2019-07-31 15:58:15 INFO  EmployeeRestAPI:70 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 15:58:15 INFO  EmployeeRestAPI:107 - ********** Checking Cookies **********
+2019-07-31 15:58:15 INFO  EmployeeRestAPI:109 - Cookies is ==> b9218bce2c4f038b02647282b9fad34d
+2019-07-31 15:58:15 INFO  EmployeeRestAPI:34 - ********** Checking Response Body **********
+2019-07-31 15:58:15 INFO  EmployeeRestAPI:36 - Response Body ==> io.restassured.internal.RestAssuredResponseImpl@17cdf2d0
+2019-07-31 15:58:15 INFO  EmployeeRestAPI:50 - ********** Checking Response Time **********
+2019-07-31 15:58:15 INFO  EmployeeRestAPI:52 - Response Time is ==> 678
+2019-07-31 15:58:15 INFO  EmployeeRestAPI:76 - ********** Checking Server Type **********
+2019-07-31 15:58:15 INFO  EmployeeRestAPI:78 - Server Type is ==> Apache
+2019-07-31 15:58:15 INFO  EmployeeRestAPI:42 - ********** Checking Status Code **********
+2019-07-31 15:58:15 INFO  EmployeeRestAPI:44 - Status Code is ==> 200
+2019-07-31 15:58:15 INFO  EmployeeRestAPI:60 - ********** Checking Status Line **********
+2019-07-31 15:58:15 INFO  EmployeeRestAPI:62 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 15:58:15 INFO  EmployeeRestAPI:115 - ********** Finished TC002_Get_Single_Employee_Data **********
+2019-07-31 15:58:15 INFO  EmployeeRestAPI:30 - ********** Started TC003_Post_New_Employee_Data **********
+2019-07-31 15:58:19 INFO  EmployeeRestAPI:80 - ********** Checking Content Type **********
+2019-07-31 15:58:19 INFO  EmployeeRestAPI:82 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 15:58:19 INFO  EmployeeRestAPI:54 - ********** Checking Response Body **********
+2019-07-31 15:58:19 INFO  EmployeeRestAPI:56 - Response Body ==> {"name":"JohniYH","salary":"36502","age":"49","id":"11780"}
+2019-07-31 15:58:19 INFO  EmployeeRestAPI:88 - ********** Checking Server Type **********
+2019-07-31 15:58:19 INFO  EmployeeRestAPI:90 - Server Type is ==> Apache
+2019-07-31 15:58:19 INFO  EmployeeRestAPI:64 - ********** Checking Status Code **********
+2019-07-31 15:58:19 INFO  EmployeeRestAPI:66 - Status Code is ==> 200
+2019-07-31 15:58:19 INFO  EmployeeRestAPI:72 - ********** Checking Status Line **********
+2019-07-31 15:58:19 INFO  EmployeeRestAPI:74 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 15:58:19 INFO  EmployeeRestAPI:96 - ********** Finished TC003_Post_New_Employee_Data **********
+2019-07-31 15:58:19 INFO  EmployeeRestAPI:30 - ********** Started TC004_Put_Employee_Data **********
+2019-07-31 15:58:23 INFO  EmployeeRestAPI:80 - ********** Checking Content Type **********
+2019-07-31 15:58:23 INFO  EmployeeRestAPI:82 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 15:58:23 INFO  EmployeeRestAPI:54 - ********** Checking Response Body **********
+2019-07-31 15:58:23 INFO  EmployeeRestAPI:56 - Response Body ==> {"name":"JohnUFx","salary":"07446","age":"75"}
+2019-07-31 15:58:23 INFO  EmployeeRestAPI:88 - ********** Checking Server Type **********
+2019-07-31 15:58:23 INFO  EmployeeRestAPI:90 - Server Type is ==> Apache
+2019-07-31 15:58:23 INFO  EmployeeRestAPI:64 - ********** Checking Status Code **********
+2019-07-31 15:58:23 INFO  EmployeeRestAPI:66 - Status Code is ==> 200
+2019-07-31 15:58:23 INFO  EmployeeRestAPI:72 - ********** Checking Status Line **********
+2019-07-31 15:58:23 INFO  EmployeeRestAPI:74 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 15:58:23 INFO  EmployeeRestAPI:96 - ********** Finished TC004_Put_Employee_Data **********
+2019-07-31 15:58:23 INFO  EmployeeRestAPI:25 - ********** Started TC005_Delete_Employee_Details **********
+2019-07-31 15:58:28 INFO  EmployeeRestAPI:43 - ********** Checking Response Body **********
+2019-07-31 15:58:28 INFO  EmployeeRestAPI:45 - Response Body ==> {"success":{"text":"successfully! deleted Records"}}
+2019-07-31 15:58:28 INFO  EmployeeRestAPI:59 - ********** Checking Response Time **********
+2019-07-31 15:58:28 INFO  EmployeeRestAPI:61 - Response Time is ==> 680
+2019-07-31 15:58:28 INFO  EmployeeRestAPI:51 - ********** Checking Status Code **********
+2019-07-31 15:58:28 INFO  EmployeeRestAPI:53 - Status Code is ==> 200
+2019-07-31 15:58:28 INFO  EmployeeRestAPI:69 - ********** Checking Status Line **********
+2019-07-31 15:58:28 INFO  EmployeeRestAPI:71 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 15:58:28 INFO  EmployeeRestAPI:77 - ********** Finished TC005_Delete_Employee_Details **********
+2019-07-31 16:21:54 INFO  EmployeeRestAPI:24 - ********** Started TC001_Get_All_Employees **********
+2019-07-31 16:22:34 INFO  EmployeeRestAPI:24 - ********** Started TC001_Get_All_Employees **********
+2019-07-31 16:22:39 INFO  EmployeeRestAPI:84 - ********** Checking Content Encoding **********
+2019-07-31 16:22:39 INFO  EmployeeRestAPI:86 - Content Encoding is ==> gzip
+2019-07-31 16:22:39 INFO  EmployeeRestAPI:92 - ********** Checking Content Length **********
+2019-07-31 16:22:39 INFO  EmployeeRestAPI:94 - Content Length is ==> 15219
+2019-07-31 16:22:39 INFO  EmployeeRestAPI:68 - ********** Checking Content Type **********
+2019-07-31 16:22:39 INFO  EmployeeRestAPI:70 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 16:22:39 INFO  EmployeeRestAPI:107 - ********** Checking Cookies **********
+2019-07-31 16:22:39 INFO  EmployeeRestAPI:109 - Cookies is ==> ba02dc72d1a09987122d9a0dbdc9cb6a
+2019-07-31 16:22:39 INFO  EmployeeRestAPI:34 - ********** Checking Response Body **********
+2019-07-31 16:22:39 INFO  EmployeeRestAPI:36 - Response Body ==> io.restassured.internal.RestAssuredResponseImpl@666b83a4
+2019-07-31 16:22:39 INFO  EmployeeRestAPI:50 - ********** Checking Response Time **********
+2019-07-31 16:22:39 INFO  EmployeeRestAPI:52 - Response Time is ==> 1148
+2019-07-31 16:22:39 INFO  EmployeeRestAPI:76 - ********** Checking Server Type **********
+2019-07-31 16:22:39 INFO  EmployeeRestAPI:78 - Server Type is ==> Apache
+2019-07-31 16:22:39 INFO  EmployeeRestAPI:42 - ********** Checking Status Code **********
+2019-07-31 16:22:39 INFO  EmployeeRestAPI:44 - Status Code is ==> 200
+2019-07-31 16:22:39 INFO  EmployeeRestAPI:60 - ********** Checking Status Line **********
+2019-07-31 16:22:39 INFO  EmployeeRestAPI:62 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 16:22:39 INFO  EmployeeRestAPI:115 - ********** Finished TC001_Get_All_Employees **********
+2019-07-31 16:22:39 INFO  EmployeeRestAPI:24 - ********** Started TC002_Get_Single_Employee_Data **********
+2019-07-31 16:22:43 INFO  EmployeeRestAPI:84 - ********** Checking Content Encoding **********
+2019-07-31 16:22:43 INFO  EmployeeRestAPI:86 - Content Encoding is ==> gzip
+2019-07-31 16:22:43 INFO  EmployeeRestAPI:92 - ********** Checking Content Length **********
+2019-07-31 16:22:43 INFO  EmployeeRestAPI:94 - Content Length is ==> 89
+2019-07-31 16:22:43 INFO  EmployeeRestAPI:68 - ********** Checking Content Type **********
+2019-07-31 16:22:43 INFO  EmployeeRestAPI:70 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 16:22:43 INFO  EmployeeRestAPI:107 - ********** Checking Cookies **********
+2019-07-31 16:22:43 INFO  EmployeeRestAPI:109 - Cookies is ==> 3563ea70bbb9d895217dcffa80a487ad
+2019-07-31 16:22:43 INFO  EmployeeRestAPI:34 - ********** Checking Response Body **********
+2019-07-31 16:22:43 INFO  EmployeeRestAPI:36 - Response Body ==> io.restassured.internal.RestAssuredResponseImpl@2ece4966
+2019-07-31 16:22:43 INFO  EmployeeRestAPI:50 - ********** Checking Response Time **********
+2019-07-31 16:22:43 INFO  EmployeeRestAPI:52 - Response Time is ==> 702
+2019-07-31 16:22:43 INFO  EmployeeRestAPI:76 - ********** Checking Server Type **********
+2019-07-31 16:22:43 INFO  EmployeeRestAPI:78 - Server Type is ==> Apache
+2019-07-31 16:22:43 INFO  EmployeeRestAPI:42 - ********** Checking Status Code **********
+2019-07-31 16:22:43 INFO  EmployeeRestAPI:44 - Status Code is ==> 200
+2019-07-31 16:22:43 INFO  EmployeeRestAPI:60 - ********** Checking Status Line **********
+2019-07-31 16:22:43 INFO  EmployeeRestAPI:62 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 16:22:43 INFO  EmployeeRestAPI:115 - ********** Finished TC002_Get_Single_Employee_Data **********
+2019-07-31 16:22:43 INFO  EmployeeRestAPI:30 - ********** Started TC003_Post_New_Employee_Data **********
+2019-07-31 16:22:46 INFO  EmployeeRestAPI:80 - ********** Checking Content Type **********
+2019-07-31 16:22:46 INFO  EmployeeRestAPI:82 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 16:22:46 INFO  EmployeeRestAPI:54 - ********** Checking Response Body **********
+2019-07-31 16:22:46 INFO  EmployeeRestAPI:56 - Response Body ==> {"name":"JohnYZK","salary":"07110","age":"68","id":"11833"}
+2019-07-31 16:22:46 INFO  EmployeeRestAPI:88 - ********** Checking Server Type **********
+2019-07-31 16:22:46 INFO  EmployeeRestAPI:90 - Server Type is ==> Apache
+2019-07-31 16:22:46 INFO  EmployeeRestAPI:64 - ********** Checking Status Code **********
+2019-07-31 16:22:46 INFO  EmployeeRestAPI:66 - Status Code is ==> 200
+2019-07-31 16:22:46 INFO  EmployeeRestAPI:72 - ********** Checking Status Line **********
+2019-07-31 16:22:46 INFO  EmployeeRestAPI:74 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 16:22:46 INFO  EmployeeRestAPI:96 - ********** Finished TC003_Post_New_Employee_Data **********
+2019-07-31 16:22:46 INFO  EmployeeRestAPI:30 - ********** Started TC004_Put_Employee_Data **********
+2019-07-31 16:22:50 INFO  EmployeeRestAPI:80 - ********** Checking Content Type **********
+2019-07-31 16:22:50 INFO  EmployeeRestAPI:82 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 16:22:50 INFO  EmployeeRestAPI:54 - ********** Checking Response Body **********
+2019-07-31 16:22:50 INFO  EmployeeRestAPI:56 - Response Body ==> {"name":"JohnOMY","salary":"30610","age":"68"}
+2019-07-31 16:22:50 INFO  EmployeeRestAPI:88 - ********** Checking Server Type **********
+2019-07-31 16:22:50 INFO  EmployeeRestAPI:90 - Server Type is ==> Apache
+2019-07-31 16:22:50 INFO  EmployeeRestAPI:64 - ********** Checking Status Code **********
+2019-07-31 16:22:50 INFO  EmployeeRestAPI:66 - Status Code is ==> 200
+2019-07-31 16:22:50 INFO  EmployeeRestAPI:72 - ********** Checking Status Line **********
+2019-07-31 16:22:50 INFO  EmployeeRestAPI:74 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 16:22:50 INFO  EmployeeRestAPI:96 - ********** Finished TC004_Put_Employee_Data **********
+2019-07-31 16:22:50 INFO  EmployeeRestAPI:25 - ********** Started TC005_Delete_Employee_Details **********
+2019-07-31 16:22:55 INFO  EmployeeRestAPI:43 - ********** Checking Response Body **********
+2019-07-31 16:22:55 INFO  EmployeeRestAPI:45 - Response Body ==> {"success":{"text":"successfully! deleted Records"}}
+2019-07-31 16:22:55 INFO  EmployeeRestAPI:59 - ********** Checking Response Time **********
+2019-07-31 16:22:55 INFO  EmployeeRestAPI:61 - Response Time is ==> 651
+2019-07-31 16:22:55 INFO  EmployeeRestAPI:51 - ********** Checking Status Code **********
+2019-07-31 16:22:55 INFO  EmployeeRestAPI:53 - Status Code is ==> 200
+2019-07-31 16:22:55 INFO  EmployeeRestAPI:69 - ********** Checking Status Line **********
+2019-07-31 16:22:55 INFO  EmployeeRestAPI:71 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 16:22:55 INFO  EmployeeRestAPI:77 - ********** Finished TC005_Delete_Employee_Details **********
+2019-07-31 16:34:47 INFO  EmployeeRestAPI:24 - ********** Started TC001_Get_All_Employees **********
+2019-07-31 16:34:58 INFO  EmployeeRestAPI:84 - ********** Checking Content Encoding **********
+2019-07-31 16:34:58 INFO  EmployeeRestAPI:86 - Content Encoding is ==> gzip
+2019-07-31 16:34:58 INFO  EmployeeRestAPI:92 - ********** Checking Content Length **********
+2019-07-31 16:34:58 INFO  EmployeeRestAPI:94 - Content Length is ==> 15411
+2019-07-31 16:34:58 INFO  EmployeeRestAPI:68 - ********** Checking Content Type **********
+2019-07-31 16:34:58 INFO  EmployeeRestAPI:70 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 16:34:58 INFO  EmployeeRestAPI:107 - ********** Checking Cookies **********
+2019-07-31 16:34:58 INFO  EmployeeRestAPI:109 - Cookies is ==> 65b0bb48b77ee13964fcf96f74d8ffd1
+2019-07-31 16:34:58 INFO  EmployeeRestAPI:34 - ********** Checking Response Body **********
+2019-07-31 16:34:58 INFO  EmployeeRestAPI:36 - Response Body ==> io.restassured.internal.RestAssuredResponseImpl@a202ccb
+2019-07-31 16:34:58 INFO  EmployeeRestAPI:50 - ********** Checking Response Time **********
+2019-07-31 16:34:58 INFO  EmployeeRestAPI:52 - Response Time is ==> 7213
+2019-07-31 16:34:58 WARN  EmployeeRestAPI:54 - Response Time is greater then 5000
+2019-07-31 16:34:58 INFO  EmployeeRestAPI:76 - ********** Checking Server Type **********
+2019-07-31 16:34:58 INFO  EmployeeRestAPI:78 - Server Type is ==> Apache
+2019-07-31 16:34:58 INFO  EmployeeRestAPI:42 - ********** Checking Status Code **********
+2019-07-31 16:34:58 INFO  EmployeeRestAPI:44 - Status Code is ==> 200
+2019-07-31 16:34:58 INFO  EmployeeRestAPI:60 - ********** Checking Status Line **********
+2019-07-31 16:34:58 INFO  EmployeeRestAPI:62 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 16:34:58 INFO  EmployeeRestAPI:115 - ********** Finished TC001_Get_All_Employees **********
+2019-07-31 16:34:58 INFO  EmployeeRestAPI:24 - ********** Started TC002_Get_Single_Employee_Data **********
+2019-07-31 16:35:01 INFO  EmployeeRestAPI:84 - ********** Checking Content Encoding **********
+2019-07-31 16:35:01 INFO  EmployeeRestAPI:86 - Content Encoding is ==> gzip
+2019-07-31 16:35:01 INFO  EmployeeRestAPI:92 - ********** Checking Content Length **********
+2019-07-31 16:35:01 INFO  EmployeeRestAPI:94 - Content Length is ==> 94
+2019-07-31 16:35:01 INFO  EmployeeRestAPI:68 - ********** Checking Content Type **********
+2019-07-31 16:35:01 INFO  EmployeeRestAPI:70 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 16:35:01 INFO  EmployeeRestAPI:107 - ********** Checking Cookies **********
+2019-07-31 16:35:01 INFO  EmployeeRestAPI:109 - Cookies is ==> 94f8435e8be75c2a6beca41afc213b7c
+2019-07-31 16:35:01 INFO  EmployeeRestAPI:34 - ********** Checking Response Body **********
+2019-07-31 16:35:01 INFO  EmployeeRestAPI:36 - Response Body ==> io.restassured.internal.RestAssuredResponseImpl@4da602fc
+2019-07-31 16:35:01 INFO  EmployeeRestAPI:50 - ********** Checking Response Time **********
+2019-07-31 16:35:01 INFO  EmployeeRestAPI:52 - Response Time is ==> 663
+2019-07-31 16:35:01 INFO  EmployeeRestAPI:76 - ********** Checking Server Type **********
+2019-07-31 16:35:01 INFO  EmployeeRestAPI:78 - Server Type is ==> Apache
+2019-07-31 16:35:01 INFO  EmployeeRestAPI:42 - ********** Checking Status Code **********
+2019-07-31 16:35:01 INFO  EmployeeRestAPI:44 - Status Code is ==> 200
+2019-07-31 16:35:01 INFO  EmployeeRestAPI:60 - ********** Checking Status Line **********
+2019-07-31 16:35:01 INFO  EmployeeRestAPI:62 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 16:35:01 INFO  EmployeeRestAPI:115 - ********** Finished TC002_Get_Single_Employee_Data **********
+2019-07-31 16:35:01 INFO  EmployeeRestAPI:30 - ********** Started TC003_Post_New_Employee_Data **********
+2019-07-31 16:35:05 INFO  EmployeeRestAPI:80 - ********** Checking Content Type **********
+2019-07-31 16:35:05 INFO  EmployeeRestAPI:82 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 16:35:05 INFO  EmployeeRestAPI:54 - ********** Checking Response Body **********
+2019-07-31 16:35:05 INFO  EmployeeRestAPI:56 - Response Body ==> {"name":"JohnFwf","salary":"88589","age":"76","id":"11854"}
+2019-07-31 16:35:05 INFO  EmployeeRestAPI:88 - ********** Checking Server Type **********
+2019-07-31 16:35:05 INFO  EmployeeRestAPI:90 - Server Type is ==> Apache
+2019-07-31 16:35:05 INFO  EmployeeRestAPI:64 - ********** Checking Status Code **********
+2019-07-31 16:35:05 INFO  EmployeeRestAPI:66 - Status Code is ==> 200
+2019-07-31 16:35:05 INFO  EmployeeRestAPI:72 - ********** Checking Status Line **********
+2019-07-31 16:35:05 INFO  EmployeeRestAPI:74 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 16:35:05 INFO  EmployeeRestAPI:96 - ********** Finished TC003_Post_New_Employee_Data **********
+2019-07-31 16:35:05 INFO  EmployeeRestAPI:30 - ********** Started TC004_Put_Employee_Data **********
+2019-07-31 16:35:09 INFO  EmployeeRestAPI:80 - ********** Checking Content Type **********
+2019-07-31 16:35:09 INFO  EmployeeRestAPI:82 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 16:35:09 INFO  EmployeeRestAPI:54 - ********** Checking Response Body **********
+2019-07-31 16:35:09 INFO  EmployeeRestAPI:56 - Response Body ==> {"name":"JohnhmB","salary":"60160","age":"19"}
+2019-07-31 16:35:09 INFO  EmployeeRestAPI:88 - ********** Checking Server Type **********
+2019-07-31 16:35:09 INFO  EmployeeRestAPI:90 - Server Type is ==> Apache
+2019-07-31 16:35:09 INFO  EmployeeRestAPI:64 - ********** Checking Status Code **********
+2019-07-31 16:35:09 INFO  EmployeeRestAPI:66 - Status Code is ==> 200
+2019-07-31 16:35:09 INFO  EmployeeRestAPI:72 - ********** Checking Status Line **********
+2019-07-31 16:35:09 INFO  EmployeeRestAPI:74 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 16:35:09 INFO  EmployeeRestAPI:96 - ********** Finished TC004_Put_Employee_Data **********
+2019-07-31 16:35:09 INFO  EmployeeRestAPI:25 - ********** Started TC005_Delete_Employee_Details **********
+2019-07-31 16:35:14 INFO  EmployeeRestAPI:43 - ********** Checking Response Body **********
+2019-07-31 16:35:14 INFO  EmployeeRestAPI:45 - Response Body ==> {"success":{"text":"successfully! deleted Records"}}
+2019-07-31 16:35:14 INFO  EmployeeRestAPI:59 - ********** Checking Response Time **********
+2019-07-31 16:35:14 INFO  EmployeeRestAPI:61 - Response Time is ==> 651
+2019-07-31 16:35:14 INFO  EmployeeRestAPI:51 - ********** Checking Status Code **********
+2019-07-31 16:35:14 INFO  EmployeeRestAPI:53 - Status Code is ==> 200
+2019-07-31 16:35:14 INFO  EmployeeRestAPI:69 - ********** Checking Status Line **********
+2019-07-31 16:35:14 INFO  EmployeeRestAPI:71 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 16:35:14 INFO  EmployeeRestAPI:77 - ********** Finished TC005_Delete_Employee_Details **********
+2019-07-31 16:36:33 INFO  EmployeeRestAPI:24 - ********** Started TC001_Get_All_Employees **********
+2019-07-31 16:36:38 INFO  EmployeeRestAPI:84 - ********** Checking Content Encoding **********
+2019-07-31 16:36:38 INFO  EmployeeRestAPI:86 - Content Encoding is ==> gzip
+2019-07-31 16:36:38 INFO  EmployeeRestAPI:92 - ********** Checking Content Length **********
+2019-07-31 16:36:38 INFO  EmployeeRestAPI:94 - Content Length is ==> 15460
+2019-07-31 16:36:38 INFO  EmployeeRestAPI:68 - ********** Checking Content Type **********
+2019-07-31 16:36:38 INFO  EmployeeRestAPI:70 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 16:36:38 INFO  EmployeeRestAPI:107 - ********** Checking Cookies **********
+2019-07-31 16:36:38 INFO  EmployeeRestAPI:109 - Cookies is ==> bf482af670e801c0d99e52525cf38722
+2019-07-31 16:36:38 INFO  EmployeeRestAPI:34 - ********** Checking Response Body **********
+2019-07-31 16:36:38 INFO  EmployeeRestAPI:36 - Response Body ==> io.restassured.internal.RestAssuredResponseImpl@a202ccb
+2019-07-31 16:36:38 INFO  EmployeeRestAPI:50 - ********** Checking Response Time **********
+2019-07-31 16:36:38 INFO  EmployeeRestAPI:52 - Response Time is ==> 1061
+2019-07-31 16:36:38 INFO  EmployeeRestAPI:76 - ********** Checking Server Type **********
+2019-07-31 16:36:38 INFO  EmployeeRestAPI:78 - Server Type is ==> Apache
+2019-07-31 16:36:38 INFO  EmployeeRestAPI:42 - ********** Checking Status Code **********
+2019-07-31 16:36:38 INFO  EmployeeRestAPI:44 - Status Code is ==> 200
+2019-07-31 16:36:38 INFO  EmployeeRestAPI:60 - ********** Checking Status Line **********
+2019-07-31 16:36:38 INFO  EmployeeRestAPI:62 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 16:36:38 INFO  EmployeeRestAPI:115 - ********** Finished TC001_Get_All_Employees **********
+2019-07-31 16:36:38 INFO  EmployeeRestAPI:24 - ********** Started TC002_Get_Single_Employee_Data **********
+2019-07-31 16:36:41 INFO  EmployeeRestAPI:84 - ********** Checking Content Encoding **********
+2019-07-31 16:36:41 INFO  EmployeeRestAPI:86 - Content Encoding is ==> gzip
+2019-07-31 16:36:41 INFO  EmployeeRestAPI:92 - ********** Checking Content Length **********
+2019-07-31 16:36:41 INFO  EmployeeRestAPI:94 - Content Length is ==> 101
+2019-07-31 16:36:41 INFO  EmployeeRestAPI:68 - ********** Checking Content Type **********
+2019-07-31 16:36:41 INFO  EmployeeRestAPI:70 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 16:36:41 INFO  EmployeeRestAPI:107 - ********** Checking Cookies **********
+2019-07-31 16:36:41 INFO  EmployeeRestAPI:109 - Cookies is ==> aa428f042792c6553687be661c066a8a
+2019-07-31 16:36:41 INFO  EmployeeRestAPI:34 - ********** Checking Response Body **********
+2019-07-31 16:36:41 INFO  EmployeeRestAPI:36 - Response Body ==> io.restassured.internal.RestAssuredResponseImpl@abf688e
+2019-07-31 16:36:41 INFO  EmployeeRestAPI:50 - ********** Checking Response Time **********
+2019-07-31 16:36:41 INFO  EmployeeRestAPI:52 - Response Time is ==> 668
+2019-07-31 16:36:41 INFO  EmployeeRestAPI:76 - ********** Checking Server Type **********
+2019-07-31 16:36:41 INFO  EmployeeRestAPI:78 - Server Type is ==> Apache
+2019-07-31 16:36:41 INFO  EmployeeRestAPI:42 - ********** Checking Status Code **********
+2019-07-31 16:36:41 INFO  EmployeeRestAPI:44 - Status Code is ==> 200
+2019-07-31 16:36:41 INFO  EmployeeRestAPI:60 - ********** Checking Status Line **********
+2019-07-31 16:36:41 INFO  EmployeeRestAPI:62 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 16:36:41 INFO  EmployeeRestAPI:115 - ********** Finished TC002_Get_Single_Employee_Data **********
+2019-07-31 16:36:41 INFO  EmployeeRestAPI:30 - ********** Started TC003_Post_New_Employee_Data **********
+2019-07-31 16:36:45 INFO  EmployeeRestAPI:80 - ********** Checking Content Type **********
+2019-07-31 16:36:45 INFO  EmployeeRestAPI:82 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 16:36:45 INFO  EmployeeRestAPI:54 - ********** Checking Response Body **********
+2019-07-31 16:36:45 INFO  EmployeeRestAPI:56 - Response Body ==> {"name":"JohnVRk","salary":"40087","age":"35","id":"11858"}
+2019-07-31 16:36:45 INFO  EmployeeRestAPI:88 - ********** Checking Server Type **********
+2019-07-31 16:36:45 INFO  EmployeeRestAPI:90 - Server Type is ==> Apache
+2019-07-31 16:36:45 INFO  EmployeeRestAPI:64 - ********** Checking Status Code **********
+2019-07-31 16:36:45 INFO  EmployeeRestAPI:66 - Status Code is ==> 200
+2019-07-31 16:36:45 INFO  EmployeeRestAPI:72 - ********** Checking Status Line **********
+2019-07-31 16:36:45 INFO  EmployeeRestAPI:74 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 16:36:45 INFO  EmployeeRestAPI:96 - ********** Finished TC003_Post_New_Employee_Data **********
+2019-07-31 16:36:45 INFO  EmployeeRestAPI:30 - ********** Started TC004_Put_Employee_Data **********
+2019-07-31 16:36:49 INFO  EmployeeRestAPI:80 - ********** Checking Content Type **********
+2019-07-31 16:36:49 INFO  EmployeeRestAPI:82 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 16:36:49 INFO  EmployeeRestAPI:54 - ********** Checking Response Body **********
+2019-07-31 16:36:49 INFO  EmployeeRestAPI:56 - Response Body ==> {"name":"JohniaC","salary":"82309","age":"61"}
+2019-07-31 16:36:49 INFO  EmployeeRestAPI:88 - ********** Checking Server Type **********
+2019-07-31 16:36:49 INFO  EmployeeRestAPI:90 - Server Type is ==> Apache
+2019-07-31 16:36:49 INFO  EmployeeRestAPI:64 - ********** Checking Status Code **********
+2019-07-31 16:36:49 INFO  EmployeeRestAPI:66 - Status Code is ==> 200
+2019-07-31 16:36:49 INFO  EmployeeRestAPI:72 - ********** Checking Status Line **********
+2019-07-31 16:36:49 INFO  EmployeeRestAPI:74 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 16:36:49 INFO  EmployeeRestAPI:96 - ********** Finished TC004_Put_Employee_Data **********
+2019-07-31 16:36:49 INFO  EmployeeRestAPI:25 - ********** Started TC005_Delete_Employee_Details **********
+2019-07-31 16:36:54 INFO  EmployeeRestAPI:43 - ********** Checking Response Body **********
+2019-07-31 16:36:54 INFO  EmployeeRestAPI:45 - Response Body ==> {"success":{"text":"successfully! deleted Records"}}
+2019-07-31 16:36:54 INFO  EmployeeRestAPI:59 - ********** Checking Response Time **********
+2019-07-31 16:36:54 INFO  EmployeeRestAPI:61 - Response Time is ==> 643
+2019-07-31 16:36:54 INFO  EmployeeRestAPI:51 - ********** Checking Status Code **********
+2019-07-31 16:36:54 INFO  EmployeeRestAPI:53 - Status Code is ==> 200
+2019-07-31 16:36:54 INFO  EmployeeRestAPI:69 - ********** Checking Status Line **********
+2019-07-31 16:36:54 INFO  EmployeeRestAPI:71 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 16:36:54 INFO  EmployeeRestAPI:77 - ********** Finished TC005_Delete_Employee_Details **********
+2019-07-31 16:38:01 INFO  EmployeeRestAPI:24 - ********** Started TC001_Get_All_Employees **********
+2019-07-31 16:38:06 INFO  EmployeeRestAPI:84 - ********** Checking Content Encoding **********
+2019-07-31 16:38:06 INFO  EmployeeRestAPI:86 - Content Encoding is ==> gzip
+2019-07-31 16:38:06 INFO  EmployeeRestAPI:92 - ********** Checking Content Length **********
+2019-07-31 16:38:06 INFO  EmployeeRestAPI:94 - Content Length is ==> 15474
+2019-07-31 16:38:06 INFO  EmployeeRestAPI:68 - ********** Checking Content Type **********
+2019-07-31 16:38:06 INFO  EmployeeRestAPI:70 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 16:38:06 INFO  EmployeeRestAPI:107 - ********** Checking Cookies **********
+2019-07-31 16:38:06 INFO  EmployeeRestAPI:109 - Cookies is ==> 92fdd5214d118d6696ae89cd8ca78bbd
+2019-07-31 16:38:06 INFO  EmployeeRestAPI:34 - ********** Checking Response Body **********
+2019-07-31 16:38:06 INFO  EmployeeRestAPI:36 - Response Body ==> io.restassured.internal.RestAssuredResponseImpl@a202ccb
+2019-07-31 16:38:06 INFO  EmployeeRestAPI:50 - ********** Checking Response Time **********
+2019-07-31 16:38:06 INFO  EmployeeRestAPI:52 - Response Time is ==> 1153
+2019-07-31 16:38:06 INFO  EmployeeRestAPI:76 - ********** Checking Server Type **********
+2019-07-31 16:38:06 INFO  EmployeeRestAPI:78 - Server Type is ==> Apache
+2019-07-31 16:38:06 INFO  EmployeeRestAPI:42 - ********** Checking Status Code **********
+2019-07-31 16:38:06 INFO  EmployeeRestAPI:44 - Status Code is ==> 200
+2019-07-31 16:38:06 INFO  EmployeeRestAPI:60 - ********** Checking Status Line **********
+2019-07-31 16:38:06 INFO  EmployeeRestAPI:62 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 16:38:06 INFO  EmployeeRestAPI:115 - ********** Finished TC001_Get_All_Employees **********
+2019-07-31 16:38:06 INFO  EmployeeRestAPI:24 - ********** Started TC002_Get_Single_Employee_Data **********
+2019-07-31 16:38:09 INFO  EmployeeRestAPI:84 - ********** Checking Content Encoding **********
+2019-07-31 16:38:09 INFO  EmployeeRestAPI:86 - Content Encoding is ==> gzip
+2019-07-31 16:38:09 INFO  EmployeeRestAPI:92 - ********** Checking Content Length **********
+2019-07-31 16:38:09 INFO  EmployeeRestAPI:94 - Content Length is ==> 99
+2019-07-31 16:38:09 INFO  EmployeeRestAPI:68 - ********** Checking Content Type **********
+2019-07-31 16:38:09 INFO  EmployeeRestAPI:70 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 16:38:09 INFO  EmployeeRestAPI:107 - ********** Checking Cookies **********
+2019-07-31 16:38:09 INFO  EmployeeRestAPI:109 - Cookies is ==> d3feadfdc4686054871b87655316270f
+2019-07-31 16:38:09 INFO  EmployeeRestAPI:34 - ********** Checking Response Body **********
+2019-07-31 16:38:09 INFO  EmployeeRestAPI:36 - Response Body ==> io.restassured.internal.RestAssuredResponseImpl@478ee483
+2019-07-31 16:38:09 INFO  EmployeeRestAPI:50 - ********** Checking Response Time **********
+2019-07-31 16:38:09 INFO  EmployeeRestAPI:52 - Response Time is ==> 664
+2019-07-31 16:38:09 INFO  EmployeeRestAPI:76 - ********** Checking Server Type **********
+2019-07-31 16:38:09 INFO  EmployeeRestAPI:78 - Server Type is ==> Apache
+2019-07-31 16:38:09 INFO  EmployeeRestAPI:42 - ********** Checking Status Code **********
+2019-07-31 16:38:09 INFO  EmployeeRestAPI:44 - Status Code is ==> 200
+2019-07-31 16:38:09 INFO  EmployeeRestAPI:60 - ********** Checking Status Line **********
+2019-07-31 16:38:09 INFO  EmployeeRestAPI:62 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 16:38:09 INFO  EmployeeRestAPI:115 - ********** Finished TC002_Get_Single_Employee_Data **********
+2019-07-31 16:38:09 INFO  EmployeeRestAPI:30 - ********** Started TC003_Post_New_Employee_Data **********
+2019-07-31 16:38:13 INFO  EmployeeRestAPI:80 - ********** Checking Content Type **********
+2019-07-31 16:38:13 INFO  EmployeeRestAPI:82 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 16:38:13 INFO  EmployeeRestAPI:54 - ********** Checking Response Body **********
+2019-07-31 16:38:13 INFO  EmployeeRestAPI:56 - Response Body ==> {"name":"JohnwxF","salary":"18575","age":"21","id":"11861"}
+2019-07-31 16:38:13 INFO  EmployeeRestAPI:88 - ********** Checking Server Type **********
+2019-07-31 16:38:13 INFO  EmployeeRestAPI:90 - Server Type is ==> Apache
+2019-07-31 16:38:13 INFO  EmployeeRestAPI:64 - ********** Checking Status Code **********
+2019-07-31 16:38:13 INFO  EmployeeRestAPI:66 - Status Code is ==> 200
+2019-07-31 16:38:13 INFO  EmployeeRestAPI:72 - ********** Checking Status Line **********
+2019-07-31 16:38:13 INFO  EmployeeRestAPI:74 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 16:38:13 INFO  EmployeeRestAPI:96 - ********** Finished TC003_Post_New_Employee_Data **********
+2019-07-31 16:38:13 INFO  EmployeeRestAPI:30 - ********** Started TC004_Put_Employee_Data **********
+2019-07-31 16:38:17 INFO  EmployeeRestAPI:80 - ********** Checking Content Type **********
+2019-07-31 16:38:17 INFO  EmployeeRestAPI:82 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 16:38:17 INFO  EmployeeRestAPI:54 - ********** Checking Response Body **********
+2019-07-31 16:38:17 INFO  EmployeeRestAPI:56 - Response Body ==> {"name":"JohnTml","salary":"55650","age":"32"}
+2019-07-31 16:38:17 INFO  EmployeeRestAPI:88 - ********** Checking Server Type **********
+2019-07-31 16:38:17 INFO  EmployeeRestAPI:90 - Server Type is ==> Apache
+2019-07-31 16:38:17 INFO  EmployeeRestAPI:64 - ********** Checking Status Code **********
+2019-07-31 16:38:17 INFO  EmployeeRestAPI:66 - Status Code is ==> 200
+2019-07-31 16:38:17 INFO  EmployeeRestAPI:72 - ********** Checking Status Line **********
+2019-07-31 16:38:17 INFO  EmployeeRestAPI:74 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 16:38:17 INFO  EmployeeRestAPI:96 - ********** Finished TC004_Put_Employee_Data **********
+2019-07-31 16:38:17 INFO  EmployeeRestAPI:25 - ********** Started TC005_Delete_Employee_Details **********
+2019-07-31 16:38:22 INFO  EmployeeRestAPI:43 - ********** Checking Response Body **********
+2019-07-31 16:38:22 INFO  EmployeeRestAPI:45 - Response Body ==> {"success":{"text":"successfully! deleted Records"}}
+2019-07-31 16:38:22 INFO  EmployeeRestAPI:59 - ********** Checking Response Time **********
+2019-07-31 16:38:22 INFO  EmployeeRestAPI:61 - Response Time is ==> 657
+2019-07-31 16:38:22 INFO  EmployeeRestAPI:51 - ********** Checking Status Code **********
+2019-07-31 16:38:22 INFO  EmployeeRestAPI:53 - Status Code is ==> 200
+2019-07-31 16:38:22 INFO  EmployeeRestAPI:69 - ********** Checking Status Line **********
+2019-07-31 16:38:22 INFO  EmployeeRestAPI:71 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 16:38:22 INFO  EmployeeRestAPI:77 - ********** Finished TC005_Delete_Employee_Details **********
+2019-07-31 16:40:00 INFO  EmployeeRestAPI:24 - ********** Started TC001_Get_All_Employees **********
+2019-07-31 16:40:05 INFO  EmployeeRestAPI:84 - ********** Checking Content Encoding **********
+2019-07-31 16:40:05 INFO  EmployeeRestAPI:86 - Content Encoding is ==> gzip
+2019-07-31 16:40:05 INFO  EmployeeRestAPI:92 - ********** Checking Content Length **********
+2019-07-31 16:40:05 INFO  EmployeeRestAPI:94 - Content Length is ==> 15498
+2019-07-31 16:40:05 INFO  EmployeeRestAPI:68 - ********** Checking Content Type **********
+2019-07-31 16:40:05 INFO  EmployeeRestAPI:70 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 16:40:05 INFO  EmployeeRestAPI:107 - ********** Checking Cookies **********
+2019-07-31 16:40:05 INFO  EmployeeRestAPI:109 - Cookies is ==> 69272f339384b051caaf0dd1272eed3e
+2019-07-31 16:40:05 INFO  EmployeeRestAPI:34 - ********** Checking Response Body **********
+2019-07-31 16:40:05 INFO  EmployeeRestAPI:36 - Response Body ==> io.restassured.internal.RestAssuredResponseImpl@6da00fb9
+2019-07-31 16:40:05 INFO  EmployeeRestAPI:50 - ********** Checking Response Time **********
+2019-07-31 16:40:05 INFO  EmployeeRestAPI:52 - Response Time is ==> 1098
+2019-07-31 16:40:05 INFO  EmployeeRestAPI:76 - ********** Checking Server Type **********
+2019-07-31 16:40:05 INFO  EmployeeRestAPI:78 - Server Type is ==> Apache
+2019-07-31 16:40:05 INFO  EmployeeRestAPI:42 - ********** Checking Status Code **********
+2019-07-31 16:40:05 INFO  EmployeeRestAPI:44 - Status Code is ==> 200
+2019-07-31 16:40:05 INFO  EmployeeRestAPI:60 - ********** Checking Status Line **********
+2019-07-31 16:40:05 INFO  EmployeeRestAPI:62 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 16:40:05 INFO  EmployeeRestAPI:115 - ********** Finished TC001_Get_All_Employees **********
+2019-07-31 16:40:05 INFO  EmployeeRestAPI:24 - ********** Started TC002_Get_Single_Employee_Data **********
+2019-07-31 16:40:08 INFO  EmployeeRestAPI:84 - ********** Checking Content Encoding **********
+2019-07-31 16:40:08 INFO  EmployeeRestAPI:86 - Content Encoding is ==> gzip
+2019-07-31 16:40:08 INFO  EmployeeRestAPI:92 - ********** Checking Content Length **********
+2019-07-31 16:40:08 INFO  EmployeeRestAPI:94 - Content Length is ==> 94
+2019-07-31 16:40:08 INFO  EmployeeRestAPI:68 - ********** Checking Content Type **********
+2019-07-31 16:40:08 INFO  EmployeeRestAPI:70 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 16:40:08 INFO  EmployeeRestAPI:107 - ********** Checking Cookies **********
+2019-07-31 16:40:08 INFO  EmployeeRestAPI:109 - Cookies is ==> 8618c4207f6ecc2bc56fa63ae5a997f9
+2019-07-31 16:40:08 INFO  EmployeeRestAPI:34 - ********** Checking Response Body **********
+2019-07-31 16:40:08 INFO  EmployeeRestAPI:36 - Response Body ==> io.restassured.internal.RestAssuredResponseImpl@3dd1dc90
+2019-07-31 16:40:08 INFO  EmployeeRestAPI:50 - ********** Checking Response Time **********
+2019-07-31 16:40:08 INFO  EmployeeRestAPI:52 - Response Time is ==> 658
+2019-07-31 16:40:08 INFO  EmployeeRestAPI:76 - ********** Checking Server Type **********
+2019-07-31 16:40:08 INFO  EmployeeRestAPI:78 - Server Type is ==> Apache
+2019-07-31 16:40:08 INFO  EmployeeRestAPI:42 - ********** Checking Status Code **********
+2019-07-31 16:40:08 INFO  EmployeeRestAPI:44 - Status Code is ==> 200
+2019-07-31 16:40:08 INFO  EmployeeRestAPI:60 - ********** Checking Status Line **********
+2019-07-31 16:40:08 INFO  EmployeeRestAPI:62 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 16:40:08 INFO  EmployeeRestAPI:115 - ********** Finished TC002_Get_Single_Employee_Data **********
+2019-07-31 16:40:08 INFO  EmployeeRestAPI:30 - ********** Started TC003_Post_New_Employee_Data **********
+2019-07-31 16:40:12 INFO  EmployeeRestAPI:80 - ********** Checking Content Type **********
+2019-07-31 16:40:12 INFO  EmployeeRestAPI:82 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 16:40:12 INFO  EmployeeRestAPI:54 - ********** Checking Response Body **********
+2019-07-31 16:40:12 INFO  EmployeeRestAPI:56 - Response Body ==> {"name":"JohnmyJ","salary":"15030","age":"27","id":"11864"}
+2019-07-31 16:40:12 INFO  EmployeeRestAPI:88 - ********** Checking Server Type **********
+2019-07-31 16:40:12 INFO  EmployeeRestAPI:90 - Server Type is ==> Apache
+2019-07-31 16:40:12 INFO  EmployeeRestAPI:64 - ********** Checking Status Code **********
+2019-07-31 16:40:12 INFO  EmployeeRestAPI:66 - Status Code is ==> 200
+2019-07-31 16:40:12 INFO  EmployeeRestAPI:72 - ********** Checking Status Line **********
+2019-07-31 16:40:12 INFO  EmployeeRestAPI:74 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 16:40:12 INFO  EmployeeRestAPI:96 - ********** Finished TC003_Post_New_Employee_Data **********
+2019-07-31 16:40:12 INFO  EmployeeRestAPI:30 - ********** Started TC004_Put_Employee_Data **********
+2019-07-31 16:40:16 INFO  EmployeeRestAPI:80 - ********** Checking Content Type **********
+2019-07-31 16:40:16 INFO  EmployeeRestAPI:82 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 16:40:16 INFO  EmployeeRestAPI:54 - ********** Checking Response Body **********
+2019-07-31 16:40:16 INFO  EmployeeRestAPI:56 - Response Body ==> {"name":"JohnVFn","salary":"30708","age":"91"}
+2019-07-31 16:40:16 INFO  EmployeeRestAPI:88 - ********** Checking Server Type **********
+2019-07-31 16:40:16 INFO  EmployeeRestAPI:90 - Server Type is ==> Apache
+2019-07-31 16:40:16 INFO  EmployeeRestAPI:64 - ********** Checking Status Code **********
+2019-07-31 16:40:16 INFO  EmployeeRestAPI:66 - Status Code is ==> 200
+2019-07-31 16:40:16 INFO  EmployeeRestAPI:72 - ********** Checking Status Line **********
+2019-07-31 16:40:16 INFO  EmployeeRestAPI:74 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 16:40:16 INFO  EmployeeRestAPI:96 - ********** Finished TC004_Put_Employee_Data **********
+2019-07-31 16:40:16 INFO  EmployeeRestAPI:25 - ********** Started TC005_Delete_Employee_Details **********
+2019-07-31 16:40:21 INFO  EmployeeRestAPI:43 - ********** Checking Response Body **********
+2019-07-31 16:40:21 INFO  EmployeeRestAPI:45 - Response Body ==> {"success":{"text":"successfully! deleted Records"}}
+2019-07-31 16:40:21 INFO  EmployeeRestAPI:59 - ********** Checking Response Time **********
+2019-07-31 16:40:21 INFO  EmployeeRestAPI:61 - Response Time is ==> 679
+2019-07-31 16:40:21 INFO  EmployeeRestAPI:51 - ********** Checking Status Code **********
+2019-07-31 16:40:21 INFO  EmployeeRestAPI:53 - Status Code is ==> 200
+2019-07-31 16:40:21 INFO  EmployeeRestAPI:69 - ********** Checking Status Line **********
+2019-07-31 16:40:21 INFO  EmployeeRestAPI:71 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 16:40:21 INFO  EmployeeRestAPI:77 - ********** Finished TC005_Delete_Employee_Details **********
+2019-07-31 16:48:01 INFO  EmployeeRestAPI:24 - ********** Started TC001_Get_All_Employees **********
+2019-07-31 16:48:05 INFO  EmployeeRestAPI:84 - ********** Checking Content Encoding **********
+2019-07-31 16:48:05 INFO  EmployeeRestAPI:86 - Content Encoding is ==> gzip
+2019-07-31 16:48:05 INFO  EmployeeRestAPI:92 - ********** Checking Content Length **********
+2019-07-31 16:48:05 INFO  EmployeeRestAPI:94 - Content Length is ==> 15537
+2019-07-31 16:48:05 INFO  EmployeeRestAPI:68 - ********** Checking Content Type **********
+2019-07-31 16:48:05 INFO  EmployeeRestAPI:70 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 16:48:05 INFO  EmployeeRestAPI:107 - ********** Checking Cookies **********
+2019-07-31 16:48:05 INFO  EmployeeRestAPI:109 - Cookies is ==> 0444dd9a1988e44ebfe6949525d9fd6d
+2019-07-31 16:48:05 INFO  EmployeeRestAPI:34 - ********** Checking Response Body **********
+2019-07-31 16:48:05 INFO  EmployeeRestAPI:36 - Response Body ==> io.restassured.internal.RestAssuredResponseImpl@a202ccb
+2019-07-31 16:48:05 INFO  EmployeeRestAPI:50 - ********** Checking Response Time **********
+2019-07-31 16:48:05 INFO  EmployeeRestAPI:52 - Response Time is ==> 1092
+2019-07-31 16:48:05 INFO  EmployeeRestAPI:76 - ********** Checking Server Type **********
+2019-07-31 16:48:05 INFO  EmployeeRestAPI:78 - Server Type is ==> Apache
+2019-07-31 16:48:05 INFO  EmployeeRestAPI:42 - ********** Checking Status Code **********
+2019-07-31 16:48:05 INFO  EmployeeRestAPI:44 - Status Code is ==> 200
+2019-07-31 16:48:05 INFO  EmployeeRestAPI:60 - ********** Checking Status Line **********
+2019-07-31 16:48:05 INFO  EmployeeRestAPI:62 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 16:48:05 INFO  EmployeeRestAPI:115 - ********** Finished TC001_Get_All_Employees **********
+2019-07-31 16:48:05 INFO  EmployeeRestAPI:24 - ********** Started TC002_Get_Single_Employee_Data **********
+2019-07-31 16:48:09 INFO  EmployeeRestAPI:84 - ********** Checking Content Encoding **********
+2019-07-31 16:48:09 INFO  EmployeeRestAPI:86 - Content Encoding is ==> gzip
+2019-07-31 16:48:09 INFO  EmployeeRestAPI:92 - ********** Checking Content Length **********
+2019-07-31 16:48:09 INFO  EmployeeRestAPI:94 - Content Length is ==> 94
+2019-07-31 16:48:09 INFO  EmployeeRestAPI:68 - ********** Checking Content Type **********
+2019-07-31 16:48:09 INFO  EmployeeRestAPI:70 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 16:48:09 INFO  EmployeeRestAPI:107 - ********** Checking Cookies **********
+2019-07-31 16:48:09 INFO  EmployeeRestAPI:109 - Cookies is ==> ce9f75f1b50212447336861ca61b8c14
+2019-07-31 16:48:09 INFO  EmployeeRestAPI:34 - ********** Checking Response Body **********
+2019-07-31 16:48:09 INFO  EmployeeRestAPI:36 - Response Body ==> io.restassured.internal.RestAssuredResponseImpl@abf688e
+2019-07-31 16:48:09 INFO  EmployeeRestAPI:50 - ********** Checking Response Time **********
+2019-07-31 16:48:09 INFO  EmployeeRestAPI:52 - Response Time is ==> 661
+2019-07-31 16:48:09 INFO  EmployeeRestAPI:76 - ********** Checking Server Type **********
+2019-07-31 16:48:09 INFO  EmployeeRestAPI:78 - Server Type is ==> Apache
+2019-07-31 16:48:09 INFO  EmployeeRestAPI:42 - ********** Checking Status Code **********
+2019-07-31 16:48:09 INFO  EmployeeRestAPI:44 - Status Code is ==> 200
+2019-07-31 16:48:09 INFO  EmployeeRestAPI:60 - ********** Checking Status Line **********
+2019-07-31 16:48:09 INFO  EmployeeRestAPI:62 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 16:48:09 INFO  EmployeeRestAPI:115 - ********** Finished TC002_Get_Single_Employee_Data **********
+2019-07-31 16:48:09 INFO  EmployeeRestAPI:30 - ********** Started TC003_Post_New_Employee_Data **********
+2019-07-31 16:48:13 INFO  EmployeeRestAPI:80 - ********** Checking Content Type **********
+2019-07-31 16:48:13 INFO  EmployeeRestAPI:82 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 16:48:13 INFO  EmployeeRestAPI:54 - ********** Checking Response Body **********
+2019-07-31 16:48:13 INFO  EmployeeRestAPI:56 - Response Body ==> {"name":"JohnmYg","salary":"04878","age":"28","id":"11874"}
+2019-07-31 16:48:13 INFO  EmployeeRestAPI:88 - ********** Checking Server Type **********
+2019-07-31 16:48:13 INFO  EmployeeRestAPI:90 - Server Type is ==> Apache
+2019-07-31 16:48:13 INFO  EmployeeRestAPI:64 - ********** Checking Status Code **********
+2019-07-31 16:48:13 INFO  EmployeeRestAPI:66 - Status Code is ==> 200
+2019-07-31 16:48:13 INFO  EmployeeRestAPI:72 - ********** Checking Status Line **********
+2019-07-31 16:48:13 INFO  EmployeeRestAPI:74 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 16:48:13 INFO  EmployeeRestAPI:96 - ********** Finished TC003_Post_New_Employee_Data **********
+2019-07-31 16:48:13 INFO  EmployeeRestAPI:30 - ********** Started TC004_Put_Employee_Data **********
+2019-07-31 16:48:16 INFO  EmployeeRestAPI:80 - ********** Checking Content Type **********
+2019-07-31 16:48:16 INFO  EmployeeRestAPI:82 - Content Type is ==> text/html; charset=UTF-8
+2019-07-31 16:48:16 INFO  EmployeeRestAPI:54 - ********** Checking Response Body **********
+2019-07-31 16:48:16 INFO  EmployeeRestAPI:56 - Response Body ==> {"name":"Johnwjy","salary":"17486","age":"01"}
+2019-07-31 16:48:16 INFO  EmployeeRestAPI:88 - ********** Checking Server Type **********
+2019-07-31 16:48:16 INFO  EmployeeRestAPI:90 - Server Type is ==> Apache
+2019-07-31 16:48:16 INFO  EmployeeRestAPI:64 - ********** Checking Status Code **********
+2019-07-31 16:48:16 INFO  EmployeeRestAPI:66 - Status Code is ==> 200
+2019-07-31 16:48:16 INFO  EmployeeRestAPI:72 - ********** Checking Status Line **********
+2019-07-31 16:48:16 INFO  EmployeeRestAPI:74 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 16:48:16 INFO  EmployeeRestAPI:96 - ********** Finished TC004_Put_Employee_Data **********
+2019-07-31 16:48:16 INFO  EmployeeRestAPI:25 - ********** Started TC005_Delete_Employee_Details **********
+2019-07-31 16:48:21 INFO  EmployeeRestAPI:43 - ********** Checking Response Body **********
+2019-07-31 16:48:21 INFO  EmployeeRestAPI:45 - Response Body ==> {"success":{"text":"successfully! deleted Records"}}
+2019-07-31 16:48:21 INFO  EmployeeRestAPI:59 - ********** Checking Response Time **********
+2019-07-31 16:48:21 INFO  EmployeeRestAPI:61 - Response Time is ==> 670
+2019-07-31 16:48:21 INFO  EmployeeRestAPI:51 - ********** Checking Status Code **********
+2019-07-31 16:48:21 INFO  EmployeeRestAPI:53 - Status Code is ==> 200
+2019-07-31 16:48:21 INFO  EmployeeRestAPI:69 - ********** Checking Status Line **********
+2019-07-31 16:48:21 INFO  EmployeeRestAPI:71 - Status Line is ==> HTTP/1.1 200 OK
+2019-07-31 16:48:21 INFO  EmployeeRestAPI:77 - ********** Finished TC005_Delete_Employee_Details **********

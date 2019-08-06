@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [RestAssuredEmployeeTestSuite]">
+  <listeners>
+    <listener class-name="com.employeeAPI.utilities.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="RestAssuredEmployeeTest(failed)">
+    <classes>
+      <class name="com.employeeAPI.testCases.TC002_Get_Single_Employee_Data">
+        <methods>
+          <include name="checkContentEncoding"/>
+          <include name="setup"/>
+          <include name="getEmployeeData"/>
+          <include name="checkContentLength"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.employeeAPI.testCases.TC002_Get_Single_Employee_Data -->
+    </classes>
+  </test> <!-- RestAssuredEmployeeTest(failed) -->
+</suite> <!-- Failed suite [RestAssuredEmployeeTestSuite] -->

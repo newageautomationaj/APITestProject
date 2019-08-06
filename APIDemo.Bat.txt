@@ -1,0 +1,3 @@
+cd D:\A3_WorkSpace\APITestDemo
+cd D:
+mvn clean install
